@@ -1,0 +1,3 @@
+
+Unable to copy project zip file to the embedded Mule instance. Project: [Mule Project] Name: emp-sapi - Domain: default
+Destination '/private/var/folders/7f/q3y5y2051bqd8y54bm53x_2w0000gn/T/AppTranslocation/EAD3DA34-01D4-4096-91CD-89D06E8D7D60/d/AnypointStudio 2.app/Contents/Eclipse/plugins/org.mule.tooling.server.4.3.0.ee_7.3.5.202007101534/mule/apps-staging' directory cannot be created
